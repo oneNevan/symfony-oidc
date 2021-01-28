@@ -1,6 +1,7 @@
 {
   "name": "drenso/symfony-oidc-bundle",
   "description": "OpenID connect bundle for Symfony",
+  "version": "1.10.1-RC1",
   "keywords": [
     "symfony",
     "oidc",
@@ -20,7 +21,7 @@
     }
   ],
   "require": {
-    "php": "^7.1.3",
+    "php": ">=7.1.3",
     "ext-curl": "*",
     "ext-json": "*",
     "ext-openssl": "*",
